@@ -17,7 +17,7 @@ There is one exception. If you do **not** have administrator rights to install s
 
 If you get stuck at any point, you can ask the Winter School installation assistant. It is a chatbot that can walk you through the steps on this page.
 
-- https://app.cogniti.ai/agents/6a559641a6f6e7bc9a81fb41/chat?k=fxgX-l_NcY-93cx9UhwXLOdCDAboh1yhKGXzyOVWpZM
+- <https://app.cogniti.ai/agents/6a559641a6f6e7bc9a81fb41/chat?k=fxgX-l_NcY-93cx9UhwXLOdCDAboh1yhKGXzyOVWpZM>
 
 Sign in with a University of Sydney, Google, or Microsoft account to use it.
 
@@ -45,14 +45,14 @@ You need a Google account so you can use Google Colab (cloud notebooks), Kaggle,
 
 **What to do:** If you do not already have a Google account, create one, then sign in to each of the services below at least once to confirm they work.
 
-- Google account: https://myaccount.google.com/
-- Google Colab: https://colab.research.google.com/
-- Kaggle: https://www.kaggle.com/
-- Google AI Studio: https://aistudio.google.com/prompts/new_chat
+- Google account: <https://myaccount.google.com/>
+- Google Colab: <https://colab.research.google.com/>
+- Kaggle: <https://www.kaggle.com/>
+- Google AI Studio: <https://aistudio.google.com/prompts/new_chat>
 
 Please also read the workshop notes before the session. They will be updated up until the course, so check back closer to the date:
 
-- https://gdgaiforscience.github.io/CAITG-WinterSchool/
+- <https://gdgaiforscience.github.io/CAITG-WinterSchool/>
 
 ---
 
@@ -64,14 +64,14 @@ Antigravity is Google's AI-assisted code editor. It is built on top of Visual St
 
 **What to do:**
 
-1. Download and install Antigravity IDE for your operating system: https://antigravity.google/download#antigravity-ide
+1. Download and install Antigravity IDE for your operating system: <https://antigravity.google/download#antigravity-ide>
 2. The first time you launch it, work through the short configuration steps (the defaults are fine) and sign in with your Google account.
 
 **Also install these, so the Day 2 demos run smoothly:**
 
-- **Python via conda** (see the Python section below): https://conda-forge.org/download/
-- **Node.js** (needed for the BigQuery demo): https://nodejs.org/
-- **uv package manager** (needed to run the MCP demos): https://docs.astral.sh/uv/getting-started/installation/
+- **Python via conda** (see the Python section below): <https://conda-forge.org/download/>
+- **Node.js** (needed for the BigQuery demo): <https://nodejs.org/>
+- **uv package manager** (needed to run the MCP demos): <https://docs.astral.sh/uv/getting-started/installation/>
 
 A note on permissions: Antigravity is powerful and can modify or delete files, so review the permissions you grant it and proceed thoughtfully.
 
@@ -85,7 +85,7 @@ LM Studio is a free desktop app (Windows, macOS and Linux) that lets you downloa
 
 **What to do:**
 
-1. Download the installer for your operating system from https://lmstudio.ai/download and install it.
+1. Download the installer for your operating system from <https://lmstudio.ai/download> and install it.
 2. Open LM Studio, go to the **Discover** tab, and download at least one small model. A 4B-parameter model (for example a small Llama, Qwen or Gemma model) is a good starting point and will run on most laptops.
 3. Load the model in the **Chat** tab and send a test prompt to confirm it works.
 4. Optional but useful: in the **Developer** / **Local Server** tab, start the local server. This exposes an API that other tools (such as Hermes) can connect to.
@@ -117,7 +117,7 @@ Hermes is an open-source AI agent from Nous Research. We will use it together wi
 
 The desktop app is a normal graphical application, and it installs the command-line version for you at the same time.
 
-1. Go to https://hermes-agent.nousresearch.com/ and download the installer for your system. macOS and Windows have direct downloads; on Linux, use the terminal install in Option B.
+1. Go to <https://hermes-agent.nousresearch.com/> and download the installer for your system. macOS and Windows have direct downloads; on Linux, use the terminal install in Option B.
 2. Run the installer. On Windows the installer is not signed yet, so you may see a SmartScreen warning. Click "More info", then "Run anyway".
 3. Open the app, sign in when prompted, and choose your model. Point it either at your LM Studio local server or at an API key.
 
@@ -141,9 +141,9 @@ The desktop app is a normal graphical application, and it installs the command-l
    (On macOS you may need `source ~/.zshrc` instead.)
 3. Choose your model with `hermes model`. Point it either at your LM Studio local server or at an API key.
 
-Full documentation and troubleshooting: https://hermes-agent.nousresearch.com/docs/
+Full documentation and troubleshooting: <https://hermes-agent.nousresearch.com/docs/>
 
-Repository: https://github.com/nousresearch/hermes-agent
+Repository: <https://github.com/nousresearch/hermes-agent>
 
 ---
 
@@ -153,7 +153,7 @@ Repository: https://github.com/nousresearch/hermes-agent
 
 **What to do:** Download the files from the repository below and follow the instructions in its README to install.
 
-- https://github.com/ZJU-Computational-Social-Science-Lab/fos
+- <https://github.com/ZJU-Computational-Social-Science-Lab/fos>
 
 This package runs locally, so you will need Python installed (see the Python and code editor section below) as well as access to an LLM (local via LM Studio, or an API key). More than one LLM is helpful if you can manage it.
 
@@ -165,7 +165,7 @@ This package runs locally, so you will need Python installed (see the Python and
 
 Cogniti is a University of Sydney web tool for custom AI teaching agents. It runs in your browser, so there is nothing to install. We will use this agent in the session:
 
-- https://app.cogniti.ai/agents/6a5ebd80c2014df40d477a4f/chat?k=qIuPxVpu0X64gc5wXP7FzJmFXHbEPgRx6lcsMhDXyck
+- <https://app.cogniti.ai/agents/6a5ebd80c2014df40d477a4f/chat?k=qIuPxVpu0X64gc5wXP7FzJmFXHbEPgRx6lcsMhDXyck>
 
 **What to do:** Open the link above in your browser and sign in. You can log in with a University of Sydney account or a Google account (Microsoft accounts also work), so both University of Sydney and external participants can access it.
 
@@ -181,12 +181,12 @@ LDaCA Wordflow is a desktop text analytics app from the Australian Text Analytic
 
 **What to do:** Install the desktop app for your operating system. The download links live in the "Latest" section of the repository:
 
-- https://github.com/Australian-Text-Analytics-Platform/LDaCa_Text_Analytics_Tools/
+- <https://github.com/Australian-Text-Analytics-Platform/LDaCa_Text_Analytics_Tools/>
 
 For the current release (v0.5.6), download the **full installer**. This is recommended for a first install, as it includes everything the app needs and sets itself up on first launch without an internet connection.
 
-- Windows: https://github.com/Australian-Text-Analytics-Platform/ldaca-wordflow/releases/download/v0.5.6/ldaca-wordflow-bundle-x64-0.5.6.msi
-- macOS (Apple Silicon): https://github.com/Australian-Text-Analytics-Platform/ldaca-wordflow/releases/download/v0.5.6/ldaca-wordflow-bundle-apple-silicon-0.5.6.dmg
+- Windows: <https://github.com/Australian-Text-Analytics-Platform/ldaca-wordflow/releases/download/v0.5.6/ldaca-wordflow-bundle-x64-0.5.6.msi>
+- macOS (Apple Silicon): <https://github.com/Australian-Text-Analytics-Platform/ldaca-wordflow/releases/download/v0.5.6/ldaca-wordflow-bundle-apple-silicon-0.5.6.dmg>
 
 The macOS app is signed by Apple. On Windows you may see a security prompt: choose "More info", then "Run anyway".
 
@@ -208,13 +208,13 @@ Please check the repository for a newer version before installing, as the links 
 
 We recommend installing Python through **conda** (Miniforge), which makes it easy to create isolated environments for different sessions:
 
-- conda (Miniforge): https://conda-forge.org/download/
+- conda (Miniforge): <https://conda-forge.org/download/>
 
-Plain Python (version 3.11 or later) from https://www.python.org/downloads/ also works if you prefer.
+Plain Python (version 3.11 or later) from <https://www.python.org/downloads/> also works if you prefer.
 
 You will also want a code editor. If you install Antigravity (above) you already have one, since it is built on Visual Studio Code. If you would rather use a plain editor for the local sessions, install Visual Studio Code:
 
-- https://code.visualstudio.com/
+- <https://code.visualstudio.com/>
 
 If you only ever follow along in Google Colab, you can skip installing Python locally, as Colab runs Python in the cloud. Note, however, that the Day 2 Antigravity demos and the local-model sessions do need Python on your own machine.
 
@@ -226,7 +226,7 @@ If you only ever follow along in Google Colab, you can skip installing Python lo
 
 There is a shared Padlet for one of the group activities. It is password protected, and the password will be circulated closer to the event.
 
-- https://padlet.com/sydney/2026-caitg-winter-school-group-activity-ohsrn137fed7nr9w
+- <https://padlet.com/sydney/2026-caitg-winter-school-group-activity-ohsrn137fed7nr9w>
 
 ---
 
