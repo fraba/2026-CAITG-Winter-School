@@ -32,7 +32,7 @@ This document is the knowledge source for an assistant that helps students insta
 - The only reason to prepare in advance is if the participant does not have administrator rights to install software on their computer.
 - The tools, by day:
   - Day 2 (Dr Nathaniel Butterworth, Google Developer Group masterclass): Google account, Google Colab, Kaggle, Google AI Studio, Antigravity IDE, plus Python (conda), Node.js, and uv.
-  - Day 3 (writing, Dr Bronwyn Dyson): Cogniti. Day 3 (literature review, Francesco Bailo): Hermes agent, plus access to an LLM.
+  - Day 3 (writing, Dr Bronwyn Dyson): Cogniti. Day 3 (literature review, Francesco Bailo): Obsidian and Hermes agent, plus access to an LLM.
   - Day 4 (Dr Justin Kyle Miller): Field of Study (FoS) package. Day 4 (text analytics): LDaCA Wordflow.
   - Used across several sessions: LM Studio and access to at least one LLM.
   - Group activity: a Padlet link.
@@ -56,6 +56,7 @@ This document is the knowledge source for an assistant that helps students insta
 - Antigravity IDE: download the installer for your operating system.
 - Python (via conda), Node.js, uv: Windows, macOS, Linux.
 - LM Studio: Windows, macOS, Linux.
+- Obsidian: Windows, macOS (Intel and Apple Silicon), Linux. Does not need administrator rights.
 - Hermes agent: desktop installers for macOS and Windows; on Linux use the terminal install.
 - Field of Study (FoS): any computer with Python.
 - Cogniti: any computer with a browser (nothing to install).
@@ -165,6 +166,25 @@ If possible, participants should have access to more than one model, because som
 
 - "Do I have to pay?" Running a local model with LM Studio is free. API keys from commercial providers usually require a paid account or credit. If a participant does not want to pay, the local option through LM Studio is the way to go.
 - "What is an API key?" It is a secret code from a model provider that lets a program use that provider's models. Participants create it in their own account with the provider, and paste it into the tool that needs it. The assistant must never ask a participant to share their API key.
+
+---
+
+## Tool: Obsidian
+
+**What it is and who needs it.** Used on Day 3 (literature review, Francesco Bailo). Obsidian is a free note-taking and knowledge-management app that stores notes as plain markdown files in a local folder called a vault. It is used to organise literature notes and the links between them.
+
+**Steps.**
+
+1. Download and install Obsidian for the participant's operating system: https://obsidian.md/download
+2. Open Obsidian and create a new vault when prompted. A vault is just a folder for the notes, so any location is fine.
+
+Obsidian is free for personal use, needs no account, and installs into a user folder without administrator rights. It works on Windows, macOS (Intel and Apple Silicon), and Linux.
+
+**Common questions.**
+
+- "Do I need an account or to pay?" No. Obsidian is free for personal use and needs no sign-up. Notes stay on the computer as markdown files.
+- "I don't have admin rights on my laptop." Obsidian installs into a user folder and does not need administrator rights, so it should install anyway.
+- "What is a vault?" It is simply a folder where Obsidian keeps the notes. Creating one is part of first launch, and any location works.
 
 ---
 
