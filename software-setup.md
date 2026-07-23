@@ -29,6 +29,7 @@ Sign in with a University of Sydney, Google, or Microsoft account to use it.
 - [ ] Node.js and the uv package manager (for the Day 2 Antigravity demos)
 - [ ] LM Studio installed, with at least one small local model downloaded
 - [ ] Access to at least one LLM (a local model via LM Studio, or an API key)
+- [ ] Obsidian installed (for the literature review session)
 - [ ] Hermes agent installed (desktop app or command line)
 - [ ] Field of Study (FoS) package downloaded
 - [ ] Cogniti agent opened in your browser (signed in with a USyd or Google account)
@@ -104,6 +105,21 @@ You need to be able to reach a language model, either of these ways:
 - **An API key** from a provider such as OpenAI, Anthropic, Google or OpenRouter (these usually require a paid account or credit).
 
 If at all possible, please have access to **more than one** model, as some exercises benefit from comparing outputs across models.
+
+---
+
+## Obsidian
+
+**Used for:** Day 3, Francesco Bailo (AI for literature review).
+
+Obsidian is a free note-taking and knowledge-management app that stores everything as plain markdown files in a local folder (called a "vault"). We will use it to organise literature notes and the links between them during the literature review session.
+
+**What to do:**
+
+1. Download and install Obsidian for your operating system from <https://obsidian.md/download>. It is free for personal use, needs no account, and works on Windows, macOS (Intel and Apple Silicon) and Linux.
+2. Open Obsidian and create a new vault when prompted. A vault is just a folder where your notes are kept, so any location on your computer is fine.
+
+Obsidian installs into a user folder and does not need administrator rights, so you can install it even on a locked-down or institution-managed laptop.
 
 ---
 
