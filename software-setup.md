@@ -31,7 +31,7 @@ Sign in with a University of Sydney, Google, or Microsoft account to use it.
 - [ ] Access to at least one LLM (a local model via LM Studio, or an API key)
 - [ ] Obsidian installed (for the literature review session)
 - [ ] Hermes agent installed (desktop app or command line)
-- [ ] Field of Study (FoS) package downloaded
+- [ ] Future of Society (FoS) package downloaded
 - [ ] Cogniti agent opened in your browser (signed in with a USyd or Google account)
 - [ ] LDaCA Wordflow desktop app installed
 - [ ] Padlet group-activity link (password to follow)
@@ -163,7 +163,7 @@ Repository: <https://github.com/nousresearch/hermes-agent>
 
 ---
 
-## Field of Study (FoS) package
+## Future of Society (FoS) package
 
 **Used for:** Day 4, Dr Justin Kyle Miller (text classification and agent-based modelling).
 
