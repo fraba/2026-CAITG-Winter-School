@@ -59,6 +59,8 @@ Please also read the workshop notes before the session. They will be updated up 
 
 ## Antigravity IDE
 
+**Note**: Make sure you install Antigravity IDE and NOT Antigravity 2.0, which is also offered from the same page. 
+
 **Used for:** Day 2, the Google Developer Group AI for Science masterclass.
 
 Antigravity is Google's AI-assisted code editor. It is built on top of Visual Studio Code, with agentic AI features built in, and is the main tool used across the Day 2 sessions.
