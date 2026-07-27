@@ -213,7 +213,7 @@ Please check the repository for a newer version before installing, as the links 
 - Open the browser-based Binder link in the repository (nothing to install), or
 - If you have the uv package manager (see the Antigravity section), run:
   ```
-  uvx --refresh ldaca-wordflow@0.5.6
+  uvx --refresh ldaca-wordflow@0.7.0
   ```
 
 ---
