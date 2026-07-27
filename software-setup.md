@@ -199,10 +199,10 @@ LDaCA Wordflow is a desktop text analytics app from the Australian Text Analytic
 
 - <https://github.com/Australian-Text-Analytics-Platform/LDaCa_Text_Analytics_Tools/>
 
-For the current release (v0.5.6), download the **full installer**. This is recommended for a first install, as it includes everything the app needs and sets itself up on first launch without an internet connection.
+For the most recent release (v0.7), download the **full installer**. This is recommended for a first install, as it includes everything the app needs and sets itself up on first launch without an internet connection.
 
-- Windows: <https://github.com/Australian-Text-Analytics-Platform/ldaca-wordflow/releases/download/v0.5.6/ldaca-wordflow-bundle-x64-0.5.6.msi>
-- macOS (Apple Silicon): <https://github.com/Australian-Text-Analytics-Platform/ldaca-wordflow/releases/download/v0.5.6/ldaca-wordflow-bundle-apple-silicon-0.5.6.dmg>
+- Windows: <https://github.com/Australian-Text-Analytics-Platform/ldaca-wordflow/releases/download/v0.7.0/LDaCA.Wordflow_0.7.0_x64_en-US.msi>
+- macOS (Apple Silicon): <https://github.com/Australian-Text-Analytics-Platform/ldaca-wordflow/releases/download/v0.7.0/LDaCA.Wordflow_0.7.0_aarch64.dmg>
 
 The macOS app is signed by Apple. On Windows you may see a security prompt: choose "More info", then "Run anyway".
 
